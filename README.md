@@ -1,2 +1,2 @@
 # dancing
-its a dancing website
+its a dancing website for dance badly
